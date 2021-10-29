@@ -1,0 +1,27 @@
+html {
+    font-size: 13px;
+}
+
+.h1 {
+    color: green;
+}
+
+.container {
+    display: block;
+    width: 100%;
+    border: 1px solid lightseagreen;
+    padding: 5px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+span.head {
+    font-weight: 800;
+    display: block;
+
+}
+
+span.title {
+    color: dimgray;
+    font-size: 12px;
+}
